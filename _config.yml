@@ -22,8 +22,7 @@ emailme:          mailto:aurelie.albert@ocean-next.fr
 gems:             [jekyll-paginate, jekyll-seo-tag, jekyll-sitemap]
 
 github:
-  repo:           https://github.com/AurelieAlbert/new-catalog-extractions/
-
+  repo:           https://aureliealbert.github.io/new-catalog-extractions
 tags:
 
 github_username:  AurelieAlbert
